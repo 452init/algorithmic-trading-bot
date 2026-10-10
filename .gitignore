@@ -1,1 +1,10 @@
 *.sqlite3
+*__pycache__/
+*.pyc
+*.DS_Store
+*.log
+*.env
+*.egg-info/
+*dist/
+*.egg
+*__init__.py
